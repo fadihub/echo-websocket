@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec7afb0-342f-406d-a10e-a4fa6c5ddbd6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/echo-websocket.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/echo-websocket1-1.0.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/echowebsocket/EchoWebSocket.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/echowebsocket/EchoWebSocket.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/echo-websocket.iml" afterPath="$PROJECT_DIR$/echo-websocket.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/echo-websocket.ipr" afterPath="$PROJECT_DIR$/echo-websocket.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/echo-websocket.iws" afterPath="$PROJECT_DIR$/echo-websocket.iws" />
     </list>
     <ignored path="echo-websocket.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +35,7 @@
       <file leaf-file-name="EchoWebSocket.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/echowebsocket/EchoWebSocket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33146068" vertical-offset="453" max-vertical-offset="1275">
+            <state vertical-scroll-proportion="-0.20786516" vertical-offset="741" max-vertical-offset="1275">
               <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
               <folding />
             </state>
@@ -210,7 +212,7 @@
       <map>
         <entry key="$PROJECT_DIR$/../../hello" value="2848407170000" />
         <entry key="$PROJECT_DIR$/../admin" value="2847591674000" />
-        <entry key="$PROJECT_DIR$" value="2855496804000" />
+        <entry key="$PROJECT_DIR$" value="2861459677000" />
         <entry key="$PROJECT_DIR$/../echo-websocket1" value="2854119107000" />
         <entry key="$PROJECT_DIR$/../event-bus-system-qbit" value="2855154324000" />
         <entry key="$PROJECT_DIR$/../hello" value="2850826363000" />
@@ -254,22 +256,24 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.7.2/c42c46af09ad64580a215b06cad9d454b20e4c95/qbit-vertx-0.7.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.7.2/d3efcedb09811affaad49a2103ff33bdc92a3663/qbit-vertx-0.7.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.8.6/ee2565b3af4fefef9ed89a63ed582b23408a1905/qbit-vertx-0.8.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.8.6/888955db708837e2d6f83107ec36af0d682fb442/qbit-vertx-0.8.6.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.2/decd76e2c461157804473468bbdc6b8eb6d6121b/logback-classic-1.1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.2/b316e9737eea25e9ddd6d88eaeee76878045c6b2/logback-classic-1.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.8.6/aeebf96e872603be7f9fccb1e8481133ee2fc7b0/qbit-boon-0.8.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.8.6/89c24733362299e2d126e4e7e8fbe17a5bbbda4b/qbit-boon-0.8.6.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/2.1.1/1ea5c4b0836d198d7ea1893d4fb0b42b2ba70532/vertx-core-2.1.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/2.1.1/8b17cc1a79db4edfd067542cbd5552b45a274143/vertx-core-2.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.7.2/49533b11c9b0ba575d0118ebe3b948e067f44b17/qbit-boon-0.7.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.7.2/efbdb62f748d53289ce5158b8e59b33b9eee0263/qbit-boon-0.7.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.8.6/1f522fc7c058b3ebbbc7aca8e89b7f39e0c83ecf/qbit-core-0.8.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.8.6/239efc72fdbc2c67d777cd8ca8bec3604063f57e/qbit-core-0.8.6.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-platform/2.1.1/3c3a1ca126e363054b4c224783a6f0eafe1800cd/vertx-platform-2.1.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-platform/2.1.1/bdcd708592bf2de9f3a16f2185220bb55204f09d/vertx-platform-2.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.7.2/932e1752d91470862ab271de2bb827ca00c123cc/qbit-core-0.7.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.7.2/9b5570a048808e860ac75f97252b4f365a86bee8/qbit-core-0.7.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/502e1c764542fe747896c1dc04f023acfe0e5cbc/logback-core-1.1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/2d23694879c2c12f125dac5076bdfd5d771cc4cb/logback-core-1.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.5.5/1eaf110e6b5d6458f3b0a95d492ac9143c9bcc85/boon-json-0.5.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.5.5/3042f3d6937c59cae3233a4aee4da318554af561/boon-json-0.5.5.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/274324c17714564d64e566ebe8bdb0d225a67295/jackson-databind-2.2.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/484301cc4a756b0c9f2d77448ec51d46d8905a25/jackson-core-2.2.2-sources.jar" />
@@ -278,8 +282,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.16/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.20.Final/8291aae0641db283f1cf7ce94dad40eb815591b9/netty-all-4.0.20.Final-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.20.Final/3364c57b80d9805c5522ab5b8a2ba15da8cd9ea9/netty-all-4.0.20.Final.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/boon/0.7.2/7647a71572f6616bc77c332a15eee4624288da2d/boon-0.7.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/boon/0.7.2/4c925da5eddac7382427887fae628c193e13ef62/boon-0.7.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.5.5/d68d2458d1b4a1103de10f8160942d15da61e768/boon-reflekt-0.5.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.5.5/3ae09d0ad727ee0c36b3c87e4a8885e89afceee9/boon-reflekt-0.5.5.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/a6017c0c873de183cf2ed3b419e52829af67fbea/jackson-annotations-2.2.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar" />
                           </list>
@@ -387,8 +391,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -735,8 +739,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/echowebsocket/EchoWebSocket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="945">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="945">
+          <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -759,48 +763,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/echowebsocket/EchoWebSocket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="945">
-          <caret line="60" column="54" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
+        <state vertical-scroll-proportion="-0.20786516" vertical-offset="741" max-vertical-offset="1275">
+          <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="735">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/echowebsocket/EchoWebSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="945">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="735">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="720">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="720">
-          <caret line="33" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -809,22 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="720">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="533">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/echowebsocket/EchoWebSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33146068" vertical-offset="453" max-vertical-offset="1275">
-          <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
           <folding />
         </state>
       </provider>
